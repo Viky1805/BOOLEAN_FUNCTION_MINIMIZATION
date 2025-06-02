@@ -1,4 +1,4 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
+# Implementation of Boolean Expression Function Minimization
 
 **AIM:**
 
