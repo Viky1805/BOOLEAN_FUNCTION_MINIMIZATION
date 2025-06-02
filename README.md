@@ -1,3 +1,7 @@
+# Name : VIGNESH S
+
+# REG NO : 212224110061
+
 # Implementation of Boolean Expression Function Minimization
 
 **AIM:**
